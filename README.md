@@ -1,4 +1,4 @@
-# 涵盖深度学习、计算机视觉基础知识、论文、代码学习、如果有这个能力我会尽量将其作成整个学习流程。
+# 涵盖深度学习、计算机视觉基础知识、3D计算全息、论文、代码学习、如果有这个能力我会尽量将其作成整个学习流程。
 最初开始学习时，苦于没有很多基础的教程流程学习，所以为了方便大家并且记录学习过程，将其写为github文档
 
 如果您觉得看着有收获，请您给我一个Star， 谢谢！！！
@@ -60,14 +60,28 @@
 
 ### 论文与代码
 
+这些论文都是我读过后贴上来的 没有顺序要求 因为看论文是很难讲求一个顺序的 只有相关性，看到一篇论文，里面一个知识点又是一篇论文，这样慢慢读，以此来增加论文阅读累计。
+
 - 基础网络论文
 
-  Going Deeper with Convolutions[[1409.4842v1\] Going Deeper with Convolutions (arxiv.org)](https://arxiv.org/abs/1409.4842v1)
+  1. Going Deeper with Convolutions[[1409.4842v1\] Going Deeper with Convolutions (arxiv.org)](https://arxiv.org/abs/1409.4842v1)
 
-  
+     此论文应用在ImageNet上，提出了深度卷积神经网络结构Inception，在2014年的分类和检测中取得了不错的效果。此论文知乎Randolqh老哥讲解的不错[【论文研读】GoogLeNet-Going deeper with convolutions - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/482776152)
+
+  LeNet
+
+  AlexNet
 
 - 计算机视觉论文
 
   
+
+- 计算全息论文
+
+  Time-multiplexed Neural Holography: A Flexible Framework for Holographic Near-eye Displays with Fast Heavily-quantized Spatial Light Modulators[[2205.02367\] Time-multiplexed Neural Holography: A flexible framework for holographic near-eye displays with fast heavily-quantized spatial light modulators (arxiv.org)](https://arxiv.org/abs/2205.02367)
+
+  4K-DMDNet: diffraction model-driven network for 4K computer-generated holography[4K-DMDNet: diffraction model-driven network for 4K computer-generated holography (oejournal.org)](https://www.oejournal.org/article/doi/10.29026/oea.2023.220135?viewType=HTML)
+
+  Neural Holography with Camera-in-the-loop Training[Neural holography with camera-in-the-loop training | ACM Transactions on Graphics](https://dl.acm.org/doi/10.1145/3414685.3417802)
 
 - 综述
