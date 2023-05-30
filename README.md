@@ -64,13 +64,15 @@
 
 - 基础网络论文
 
-  1. Going Deeper with Convolutions[[1409.4842v1\] Going Deeper with Convolutions (arxiv.org)](https://arxiv.org/abs/1409.4842v1)
+  - 2014: Going Deeper with Convolutions[[1409.4842v1\] Going Deeper with Convolutions (arxiv.org)](https://arxiv.org/abs/1409.4842v1)
+  - 此论文应用在ImageNet上，提出了深度卷积神经网络结构Inception，在2014年的分类和检测中取得了不错的效果。此论文知乎Randolqh老哥讲解的不错，也有代码[【论文研读】GoogLeNet-Going deeper with convolutions - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/482776152)
+  
 
-     此论文应用在ImageNet上，提出了深度卷积神经网络结构Inception，在2014年的分类和检测中取得了不错的效果。此论文知乎Randolqh老哥讲解的不错[【论文研读】GoogLeNet-Going deeper with convolutions - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/482776152)
-
-  LeNet
-
-  AlexNet
+  - LeNet
+- AlexNet
+  - 2014: VGG
+- 2016: FPN[[1612.03144\] Feature Pyramid Networks for Object Detection (arxiv.org)](https://arxiv.org/abs/1612.03144)
+    - 特征金字塔网络，特征金字塔一直是多尺度目标检测中的一个基本的组成部分，提高了目标检测的准确率，尤其是小目标检测。简单视频讲解https://www.bilibili.com/video/BV1dh411U7D9/?spm_id_from=333.337.search-card.all.click
 
 - 计算机视觉论文
 
