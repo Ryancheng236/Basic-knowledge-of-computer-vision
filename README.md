@@ -69,14 +69,20 @@
   
 
   - LeNet
+  
 - AlexNet
   - 2014: VGG
+  
 - 2016: FPN[[1612.03144\] Feature Pyramid Networks for Object Detection (arxiv.org)](https://arxiv.org/abs/1612.03144)
     - 特征金字塔网络，特征金字塔一直是多尺度目标检测中的一个基本的组成部分，提高了目标检测的准确率，尤其是小目标检测。简单视频讲解https://www.bilibili.com/video/BV1dh411U7D9/?spm_id_from=333.337.search-card.all.click
 
+- 2015:ResNet[[1512.03385\] Deep Residual Learning for Image Recognition (arxiv.org)](https://arxiv.org/abs/1512.03385)
+    
+    - 残差网络，随着网络的深度增加，会产生两个问题第一梯度消失或者梯度爆炸、第二会产生网络degradation(退化)的问题，本篇论文有效的解决了此问题https://www.bilibili.com/video/BV1T7411T7wa/?spm_id_from=333.337.search-card.all.click
+    
 - 计算机视觉论文
 
-  
+    
 
 - 计算全息论文
 
